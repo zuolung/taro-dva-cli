@@ -1,0 +1,24 @@
+{
+  "name": "create-taro-dva-app",
+  "version": "1.0.1",
+  "description": "create-taro-dva-app",
+  "main": "index.js",
+  "bin": {
+    "create-taro-dva-app": "./bin/create-taro-dva-app.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.4.0",
+    "handlebars": "^4.7.6",
+    "open": "^7.0.4",
+    "ora": "^4.0.4",
+    "watch": "^1.0.2"
+  }
+}
